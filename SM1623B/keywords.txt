@@ -1,0 +1,88 @@
+#######################################
+# Syntax Coloring Map For SM1623B Lib
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SM1623B	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+DspBegin	KEYWORD2
+RAMclear	KEYWORD2
+DUpdate	KEYWORD2
+displayClear	KEYWORD2
+clearDisplay	KEYWORD2
+SetTime	KEYWORD2
+GetButtons	KEYWORD2
+SetLED	KEYWORD2
+SetDisk	KEYWORD2
+SendCmd	KEYWORD2
+SendData	KEYWORD2
+Send	KEYWORD2
+ShowNumber	KEYWORD2
+Display_one	KEYWORD2
+Display_Probe	KEYWORD2
+displayProbeAll	KEYWORD2
+Dspy_All	KEYWORD2
+ShowOn	KEYWORD2
+ShowOff	KEYWORD2
+ShowSpeaker	KEYWORD2
+ShowHora	KEYWORD2
+ShowLED	KEYWORD2
+ShowSetting	KEYWORD2
+ShowStby	KEYWORD2
+ShowHello	KEYWORD2
+ShowPelusa	KEYWORD2
+ShowAlert	KEYWORD2
+SPD	KEYWORD2
+NumSegm	KEYWORD2
+Brillo	KEYWORD2
+SegAll	KEYWORD2
+SegmAll	KEYWORD2
+SegmOnly	KEYWORD2
+SecondsSeg	KEYWORD2
+SecondsSeg1	KEYWORD2
+SetTime1	KEYWORD2
+ShowCLK	KEYWORD2
+ShowCLK1	KEYWORD2
+Porcent_disk	KEYWORD2
+circle	KEYWORD2
+Upcircle	KEYWORD2
+Downcircle	KEYWORD2
+getBtt	KEYWORD2
+RTime	KEYWORD2
+Receive	KEYWORD2
+setCursor	KEYWORD2
+SetChar	KEYWORD2
+Forporcent	KEYWORD2
+dtime	KEYWORD2
+Changtime	KEYWORD2
+Clock	KEYWORD2
+Uphour	KEYWORD2
+Downhour	KEYWORD2
+Upmin	KEYWORD2
+Downmin	KEYWORD2
+Upsec	KEYWORD2
+Downsec	KEYWORD2
+beepbuzzer	KEYWORD2
+multiBeep	KEYWORD2
+writeNumber	KEYWORD2
+iteration	KEYWORD2
+writext	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+delay_time	LITERAL1
+module	LITERAL1
+dvd	LITERAL1
+display	LITERAL1
+on	LITERAL1
+off	LITERAL1
+ON	LITERAL1
+OFF	LITERAL1
